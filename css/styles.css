@@ -1,0 +1,28 @@
+p {
+  color: palevioletred;
+  font-size: 20px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+h1.flashy{
+  color: red;
+  font-style: italic;
+}
+
+h2.flashy{
+  color: red;
+  font-style: italic;
+}
+
+p.best{
+  color:deeppink;
+  font-family: fantasy;
+}
